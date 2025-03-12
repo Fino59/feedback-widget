@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+body {
+    @apply bg-[#09090A] text-zinc-100
+}
+
 @theme {
     --color-brand: #8257E5;
     --color-brand-hover: #996DFF;
